@@ -120,9 +120,10 @@ router.route('/signin')
 
 router.route('/posts')
     .post(authJwtController.isAuthenticated, function(req, res) {
+        console.log(req.body);
 
         if(!req.body.imageUrl){
-            return res.json({status: false, msg: "Please include an image url.", description: req.description});
+            return res.json({status: false, msg: "Please include an image url."});
         }
 
         var post = new Posts();
