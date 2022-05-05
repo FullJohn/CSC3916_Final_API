@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stoked-duality-349123",
+  "private_key_id": "3eb50396bd2ff0b3ec1c4a27cf98172da5d1ac3d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDBJa4OXRTWyc3O\nPSu8c7ZWGUj1nEC/JP+Q2ayabYyWFci5TmKUrzSZ0KlTOY1qOAdWGrD5ZiApjBEV\nufZQQpJX2AZH83bGMvL9/5qqZdJFz46ViGgAuyYwGDjlqQ3bSjHYk6rkJj81xBlC\nD4p2K1V41W6h3OGzZDTuYoF9E20g4E1buTEQlXMkLRxH6qUzaefsJhxXliGbs5F6\nH1EHTXayDAZ0nmjIMbNM2t82EjhB8XygJnpToUdqAy9+qfnWHU4rOPcKCrQ0Udja\nNbi8qiy7uFGJAchhAJDftkNrK0YuhVypaQCOX7zF7fM8Yt7YJHocmrrKbdTgRDAQ\n5EpBgNT3AgMBAAECggEAWOGsj8qQ0Oir7xjiPAYppcRb+T6O4wc1HiS1U5lPBTAA\nHxotrktUEuZdTUGiTHt9EMgWoaY37baZlBxv924zJv5voYOtqDaA8JbDx1803NBP\nRouvhIqa36393N2nVT724jnN/dCF7QmRL/+z0X5Ohlz9XLonGOTnoL2u5e5fHS2c\ncSmtwYq9H3THpRotLjsLS+T2oM25Y3usPEOv/gWk/ptVltmXKa45jayBaK4al+H6\nuNdknxuu1GeYljbcL3Ao+m7PbnsJoHFhlQ9LTkJtqobC25senndmkPzsgBfpz5hj\no8O+wzvxc6AIkD3PJe49S9+khe+9qib6DLMQqwjIOQKBgQD/yv1m3qZJvmQwLvd3\nm5dltZ/OuFLsZLO11DHdmPyPmtxGZU9SYFPMZqmvmXDrO1RtXTjxBZHnQ4oeipOE\nBnpz7lyp12PEpy1ekcvOd+eg3LlBR4NCVziie6b34H+FEvSOr7eFc52DDrAnf86x\nSCkRd8I0btTLGKGVv5O+I7+x6QKBgQDBTbUbF7r12pZVknflvSLCMPQ3V4GhbJ7l\ne4uRZ/7EmYdXXHsAqhc21yIQI6KVpjEzJM9L4u/hLK26lsdMJI99r95cdSsKiDtZ\nhI9YoquaRa2Mr3ijn8SjLOJ52bh9+wx+GO+mexnsM91/IltaTZ66w8ubMkT1ee0W\nad7wRWIj3wKBgHI64W0WEyatiqpl3wegCT1XnbVAZW/CDOsvhtFSJ7+txZ7+US0V\nbXbDhhWwLVgvV6W7Utl3xk+DvuOiuPvltLue/+ytDpXcnos0CtL6gws4Zta7K+ft\ncZJGLCtYKzpvW5145TkIh5fmcE5DajeLZSOy2px1vjuwlUB9nGn2Jv45AoGAJ1T/\nb8bRVOsoQbsuyEFGzEqXtpcImmb2oe0Uhf6qGSjAICeCI614UcFOfggyMc8CHcz0\nnRVNB/1GUDwTy0t5IvLhBOEWY+s6YEmXvUpELnzVBlZB7tE4epdMccy6PHATp6i9\nQpuzt5sKC69a9THsBUaHrEl7PJOViUT7htonUPMCgYBkh1N5IHRv8MYTIG2SpMEi\nJQZkx1mDqsxckY9KNbD7sPGL0rU4n2wGritICu4Rv2DdUyAyV+xWwAGD8QZroUm8\nlcgplljYF8RY+MYHLNurMcagmQXMNcVY30a4Oqg8bT7EGzNjE42zdQuNOO7abKvS\nwh8VNi0bR1j/Uskg9viU7w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "csc3916-final@stoked-duality-349123.iam.gserviceaccount.com",
+  "client_id": "111170370199911323327",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/csc3916-final%40stoked-duality-349123.iam.gserviceaccount.com"
+}
